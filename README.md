@@ -19,7 +19,7 @@ a two-player game but can be played with a myriad of varying rules.
   are chosen before each game commences.
   
 ## Console Commands ##
-* start - invokes the startGame() method.
-* exit - invokes the exit() method.
-* help - invokes the help() method.
-* commands - invokes the commandList() method.
+* start - trigger the start of the game.
+* exit - trigger the start of the game.
+* help - display a message to assist the user to play a game.
+* commands - display all the commands available to the user.
