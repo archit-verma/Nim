@@ -19,7 +19,7 @@ a two-player game but can be played with a myriad of varying rules.
   are chosen before each game commences.
   
 ## Console Commands ##
-* start - trigger the start of the game.
-* exit - trigger the start of the game.
-* help - display a message to assist the user to play a game.
-* commands - display all the commands available to the user.
+* __start__ - trigger the start of the game.
+* __exit__ - trigger the start of the game.
+* __help__ - display a message to assist the user to play a game.
+* __commands__ - display all the commands available to the user.
