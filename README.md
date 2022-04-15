@@ -23,3 +23,5 @@ a two-player game but can be played with a myriad of varying rules.
 * __exit__ - trigger the start of the game.
 * __help__ - display a message to assist the user to play a game.
 * __commands__ - display all the commands available to the user.
+
+Run __Nimsys.java__ to start the game.
